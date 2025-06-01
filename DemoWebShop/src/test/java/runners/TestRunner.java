@@ -16,7 +16,7 @@ import io.cucumber.testng.CucumberOptions;
 //					"src/test/resources/DigitalDownloadWishlist.feature",	//meghna
 //					"src/test/resources/shopping_cart.feature"				//srijit
 //		}, 
-//		features = {"src/test/resources/all_feature.feature"},
+		features = {"src/test/resources/CheckOut.feature"},
 		glue = "stepDefinition"
 		)
 
